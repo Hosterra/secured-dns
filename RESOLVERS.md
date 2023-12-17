@@ -8,7 +8,7 @@ The service [https://doh.hosterra.tech](https://doh.hosterra.tech) uses only Eur
 
 🇦🇹 Foundation for Applied Privacy downstream resolvers https://applied-privacy.net/
 
-🇫🇷 Freifunk München downstream resolvers https://ffmuc.net/wiki/doku.php?id=start
+🇩🇪 Freifunk München downstream resolvers https://ffmuc.net/wiki/doku.php?id=start
 
 🇩🇪 🇦🇹 kescherDNS downstream resolvers https://dns.kescher.at/
 
